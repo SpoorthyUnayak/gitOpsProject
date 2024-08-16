@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: spoorthynayak/docker_image:37
+        image: spoorthynayak/docker_image:38
         ports:
         - containerPort: 8080
